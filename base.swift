@@ -1,5 +1,4 @@
 import UIKit
-PlaygroundSupport replaces XCPlayground
 import PlaygroundSupport
 
 class TestViewController: UIViewController{
